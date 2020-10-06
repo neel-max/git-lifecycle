@@ -19,3 +19,4 @@ class CheckEvenOdd
         System.out.println("Entered number is odd");
   }
 }
+//This command will determie whether a number is even or odd
